@@ -18,4 +18,4 @@
 - [LinkedIn](https://www.linkedin.com/in/syed-thoufiq-4aba57107/) 👨💼
 - [Blog](https://medium.com/@syedth.thoufiq) 🤓💻
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=syedth)](https://github.com/syedth/github-readme-stats)
+![Syed's github stats](https://github-readme-stats.vercel.app/api?username=syedth&show_icons=true&theme=gruvbox)
