@@ -19,7 +19,7 @@
 - [Automation | Cypress with Page Object Model](https://medium.com/@syedth.thoufiq/cypress-with-page-object-model-2e8ef793e258?source=your_stories_page)
 
 ### 💼 Where I work?
-- [Quality Assurance Manager - Calibraint Technologies](https://www.calibraint.com) 💼 
+- [Full Stack QA Engineer - Calibraint Technologies](https://www.calibraint.com) 💼 
 
 ### 💻 I'm good at!
 - Delivering a Quality product from the Organization
