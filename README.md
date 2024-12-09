@@ -11,7 +11,8 @@
 <code><img height="20" src="https://avatars3.githubusercontent.com/u/10251060?s=200&v=4"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg"></code>
 <code><img height="20" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png"></code>
-
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png"></code>
+<code><img height="20" src="https://proxyjobsupport.com/wp-content/uploads/2024/02/appium.png"></code>
 
 
 ### 📰 My Blogs
